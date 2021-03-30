@@ -16,4 +16,6 @@
 -有出色的逻辑性思维能力，富于团队合作的精神及良好的沟通能力
 -抗压，主动学习，善于沟通
 -外向，认真负责，做事有持续性
+
+
 <img src="https://user-images.githubusercontent.com/81311437/112860112-18ed1300-90e6-11eb-818d-f2d8abc75e69.png" alt="drawing" width="400"/>
